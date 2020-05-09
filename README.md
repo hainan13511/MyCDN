@@ -1,2 +1,2 @@
 # MyCDN
-jsDeliver CDN
+HEXO-Sakura主题 CDN
